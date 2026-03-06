@@ -8,7 +8,9 @@ public class Demo {
         String firstName="Ravi";
         String SecondName="teja";
         System.out.println(a);
+        System.out.println(b);
         System.out.println(firstName);
+        System.out.println(SecondName);
         System.out.println(sclName);
     }
     public static void main(String[] args) {
