@@ -14,7 +14,7 @@ class Driver{
         System.out.println("car moving");
     }
 }
-public class HasArealtionship{
+public class HasARealtionship{
     public static void main(String[] args) {
         Driver d=new Driver();
         d.carDriver();
